@@ -1,0 +1,40 @@
+.small-info h2 {
+  font-family: 'Licorice', cursive;
+}
+
+.small-info h1 span {
+  text-transform: uppercase;
+  border: 1px solid #c69984;
+  padding: 5px 15px;
+  font-size: 60px;
+  color: #c69984;
+}
+
+.small-info h6 {
+  margin-top: 40px;
+}
+
+.sub-title {
+  color: #9a9a9a;
+  font-weight: 300;
+  line-height: 1.5;
+}
+
+.card-pricing {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-list {
+  list-style: none;
+  color: #9a9a9a;
+  padding-left: 0;
+}
+
+.footer-social {
+  display: flex;
+}
+
+.img-block {
+  display: block !important;
+}
